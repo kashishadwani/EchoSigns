@@ -1,0 +1,6 @@
+# Large model & data files
+*.h5
+*.npy
+*.mp3
+dataset/
+newdataset/
